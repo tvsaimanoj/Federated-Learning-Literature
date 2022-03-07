@@ -1,6 +1,9 @@
 # Federated-Learning-Literature
 My Collection of Federated Learning Literature
 
+## Original Paper
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) (2017)
+
 ## General Survey
 - [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf) (2021)
 - [Federated Learning:Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf) (2019)
